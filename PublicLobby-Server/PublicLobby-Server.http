@@ -1,6 +1,3 @@
 @PublicLobby_Server_HostAddress = http://localhost:5032
 
-GET {{PublicLobby_Server_HostAddress}}/weatherforecast/
-Accept: application/json
-
 ###

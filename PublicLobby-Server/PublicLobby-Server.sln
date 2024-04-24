@@ -2,6 +2,10 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PublicLobby-Server", "PublicLobby-Server.csproj", "{0BE92CBE-F3F4-4720-8E24-BE301C4DE791}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PublicLobby-Server.Api", "..\PublicLobby-Server.Api\PublicLobby-Server.Api.csproj", "{72A0A85B-0DCE-41C1-9261-E4EAADCA415A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PublicLobby-Client", "..\PublicLobby-Client\PublicLobby-Client.csproj", "{2E719782-A14C-40DC-B543-9A97ED6F0DF4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +16,13 @@ Global
 		{0BE92CBE-F3F4-4720-8E24-BE301C4DE791}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0BE92CBE-F3F4-4720-8E24-BE301C4DE791}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0BE92CBE-F3F4-4720-8E24-BE301C4DE791}.Release|Any CPU.Build.0 = Release|Any CPU
+		{72A0A85B-0DCE-41C1-9261-E4EAADCA415A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72A0A85B-0DCE-41C1-9261-E4EAADCA415A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72A0A85B-0DCE-41C1-9261-E4EAADCA415A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72A0A85B-0DCE-41C1-9261-E4EAADCA415A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2E719782-A14C-40DC-B543-9A97ED6F0DF4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E719782-A14C-40DC-B543-9A97ED6F0DF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E719782-A14C-40DC-B543-9A97ED6F0DF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E719782-A14C-40DC-B543-9A97ED6F0DF4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
